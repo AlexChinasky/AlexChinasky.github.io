@@ -1,2 +1,2 @@
-# NovelCorpse.github.io
+# r-novel.github.io
 Host my personal resume.
